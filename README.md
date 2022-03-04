@@ -5,17 +5,17 @@
 
 ## 💻 Project
 
-🚧 A ReatNative app with Molti and ReactNative Animated example 🚀
+🚧 A ReatNative app with Moti and ReactNative Animated example 🚀
 
 ## 🔨 Features
 
-- [x] Apply example of Molti and Reanimated to see the diferences between them
+- [x] Apply example of Moti and Reanimated to see the diferences between them
 
 ## ✨ Technologies
 
 - [x] ReactNative
 - [x] Expo
-- [x] Molti
+- [x] Moti
 - [x] Reanimated
 
 ## 🏃‍♂️ Running the project
@@ -23,7 +23,6 @@
 Clone the repository
 
 Use **yarn** or **npm install** to install project dependencies.
-Then start the project.
 Make sure that you have [ExpoCli](https://docs.expo.dev/workflow/expo-cli/) already installed!
 Run on emulator or scan QrCode in you cellphone (requires [ExpoGo App](https://expo.dev/client))
 
