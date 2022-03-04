@@ -1,4 +1,3 @@
-# rn-animations-example
 <h1 align="center">
   ReatNative animated example 👋
 </h1>
